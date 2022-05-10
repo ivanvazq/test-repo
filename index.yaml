@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  vclass:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-10T21:19:14.66277606+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 3fee14ccc492d987a544fb4224e04b55f19dd1e70ef783ec031f38992d9f0efe
+    name: vclass
+    type: application
+    urls:
+    - https://github.io/ivanvazq/test-repo/vclass-0.1.0.tgz
+    version: 0.1.0
+  vcpe:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-10T21:19:14.663724648+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 5c9544251bf412721437115fa1cf48fae1a5de21985fe2de8f6aa6ad66f2943c
+    name: vcpe
+    type: application
+    urls:
+    - https://github.io/ivanvazq/test-repo/vcpe-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-10T21:19:14.661715172+02:00"
